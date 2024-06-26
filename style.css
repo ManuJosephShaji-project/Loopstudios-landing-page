@@ -168,11 +168,11 @@ a:hover::after {
     font-weight: 200;
     text-transform: uppercase;
     color: white;
-    font-size: 3.7rem;
-    width: 29rem;
-    padding: 20px;
+    font-size: 4.7rem;
+    width: 38rem;
+    padding: 26px;
     border: 2px solid white;
-    margin-top: 110px;
+    margin-top: 146px;
     display: flex;
 }
 
